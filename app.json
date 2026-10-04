@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Lincampride",
+    "slug": "lincampride-fresh",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FFC400",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "backgroundColor": "#FFC400"
+    }
+  }
+}
